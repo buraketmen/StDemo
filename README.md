@@ -1,3 +1,6 @@
+```ruby
+$ streamlit run app.py
+```
 #### Screenshot
 ![](Images/1.png)
 
