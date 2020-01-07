@@ -1,29 +1,30 @@
+In terminal:
 ```ruby
 $ streamlit run app.py
 ```
-#### Screenshot
+#### Upload your CSV File
 ![](Images/1.png)
 
-#### Screenshot
+#### Show your dataset
 ![](Images/2.png)
 
-#### Screenshot
+#### Show Column Names and Data Types
 ![](Images/3.png)
 
-#### Screenshot
+#### Select Columns to Show
 ![](Images/4.png)
 
-#### Screenshot
+#### Show Value Counts of Column
 ![](Images/5.png)
 
-#### Screenshot
+#### Show Summary
 ![](Images/6.png)
 
-#### Screenshot
+#### Heatmap
 ![](Images/7.png)
 
-#### Screenshot
+#### Customizable Plot
 ![](Images/8.png)
 
-#### Screenshot
+#### Customizable Plot
 ![](Images/9.png)
